@@ -1,0 +1,67 @@
+#top{
+    border: 3px red solid;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aliceblue;
+}
+
+.rubrik{
+    background-color: aqua;
+    border: 2px black solid;
+    text-align: center;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+
+
+
+#middle{
+    border: 3px orange solid;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: aliceblue;
+}
+
+
+.vänstert{
+    background-color: yellow;
+    padding: 20px;
+    border: black solid 2px;
+    padding-left: 14%;
+    padding-right: 14%;
+}
+
+
+
+.högert{
+    background-color: pink;
+    padding: 20px;
+    padding-left: 14%;
+    padding-right: 14%;
+    border: black solid 2px;
+}
+
+
+#bottom{
+    height: 412px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: yellow solid 3px;
+    background-color: aliceblue;
+
+}
+
